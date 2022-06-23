@@ -44,3 +44,4 @@ jobs:
         with:
           name: mobsf-report.json
           path: mobsf-report.json
+
